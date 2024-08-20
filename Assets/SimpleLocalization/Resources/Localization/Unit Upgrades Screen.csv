@@ -1,0 +1,56 @@
+Key,Russian,English
+unit_upgrade_screen_title,Улучшения юнитов,Unit upgrades
+unit_upgrade_screen_upgrades_button,Улучшения,Upgrades
+unit_upgrade_screen_evoution_button,Эволюция,Evolution
+Evaluate,Стоимость,Price
+timeline1_stage1_mob1_name,Дикарь,Savage
+timeline1_stage1_mob2_name,Метатель,Thrower
+timeline1_stage1_mob3_name,Охотник,Hunter
+timeline1_stage1_mob4_name,Шаман,Shaman
+timeline1_stage1_mob5_name,Камнеклюв,Stonebeak
+,,
+timeline1_stage2_mob1_name,Бегущий ветер,Running wind
+timeline1_stage2_mob2_name,Синий клык,Blue fang
+timeline1_stage2_mob3_name,Орлиный глаз,Eagle eye
+timeline1_stage2_mob4_name,Железное сердце,Iron heart
+timeline1_stage2_mob5_name,Черная птица,Black bird
+,,
+timeline1_stage3_mob1_name,Легионер,Legionary
+timeline1_stage3_mob2_name,Баллистарий,Ballistary
+timeline1_stage3_mob3_name,Преторианец,Praetorian
+timeline1_stage3_mob4_name,Кавалерист,Cavalryman
+timeline1_stage3_mob5_name,Аэриус,Aerius
+,,
+timeline1_stage4_mob1_name,Пехотинец,Comfrey
+timeline1_stage4_mob2_name,Штурмовик,Assaulter
+timeline1_stage4_mob3_name,Гренадер,Grenadier
+timeline1_stage4_mob4_name,Бронетрактор,Armored tractor
+timeline1_stage4_mob5_name,Биплан,Biplane
+,,
+timeline1_stage5_mob1_name,Стрелок,Shooter
+timeline1_stage5_mob2_name,Гранатометчик,Grenade launcher
+timeline1_stage5_mob3_name,Оператор дрона,Drone operator
+timeline1_stage5_mob4_name,Ударный дрон,Strike drone
+timeline1_stage5_mob5_name,Вертолет,Helicopter
+,,
+timeline1_stage6_mob1_name,Робособака,Robodog
+timeline1_stage6_mob2_name,Роботанк,Robotank
+timeline1_stage6_mob3_name,T1500,T1500
+timeline1_stage6_mob4_name,T2000,T2000
+timeline1_stage6_mob5_name,Космический корабль,Spaceship
+,,
+unit_upgrade_screen_evolve_button,Развиться,Evolve
+stage1_name,Примитивная эра,Primitive era
+stage2_name,Индейская цивилизация,Indian civilization
+stage3_name,Римская цивилизаиция,Roman civilization
+stage4_name,Промышленная эра,Industrial era
+stage5_name,Постиндустриальная эра,Post-industrial era
+stage6_name,Эра искуственного интеллекта,Artificial intelligence era
+Humans,Люди,Humans
+Battle,Битва,Battle
+Evolution,Эволюция,Evolution
+Skills,Навыки,Skills
+key1,"Развивайтесь, чтобы разблокировать лучших юнитов!
+Развитие приведет к обнулению вашего прогресса","Evolve to unlock better units!
+Evolving will reset your progress"
+Difficulti,Сложность,Difficulti

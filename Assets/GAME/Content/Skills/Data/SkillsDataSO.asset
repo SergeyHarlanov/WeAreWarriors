@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 042909bb98bfb4342be5cb72a0340548, type: 3}
+  m_Name: SkillsDataSO
+  m_EditorClassIdentifier: 
+  skills:
+  - name: Arrows
+    id: 0
+    localizationKey: skill_arrow
+    upgradeDescription: -----
+    type: 0
+    uiSpriteLink:
+      m_AssetGUID: 9c1c53f3b9a5b41f6b7fefdde1c8a98a
+      m_SubObjectName: icon_skill_time1_stage3
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    baseEffectValue: 1
+    perUpgradeEffectValue: 0.5
+    upgradeCost: 100
+    countOfUsagePerBattle: 1
+    openTimeLineId: 0
+    openStageId: 3
+    prefabLink:
+      m_AssetGUID: dbd95705627bb6b47b2c61dc415655cb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    timeAwait: 1
+    upgradeSkillValue:
+      timeStunn: 0.5
+      percentToDamage: 0
+      percentToSlowDown: 0
+    numberOfUses: 1
+  - name: Fab
+    id: 1
+    localizationKey: skill_Fab
+    upgradeDescription: -----
+    type: 1
+    uiSpriteLink:
+      m_AssetGUID: 7af97c50f96524a3d9119a366a743235
+      m_SubObjectName: icon_skill_time1_stage4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    baseEffectValue: 5
+    perUpgradeEffectValue: 1
+    upgradeCost: 100
+    countOfUsagePerBattle: 1
+    openTimeLineId: 0
+    openStageId: 4
+    prefabLink:
+      m_AssetGUID: 87c94c3a812549f419c6c664aa6a6b4e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    timeAwait: 2
+    upgradeSkillValue:
+      timeStunn: 0
+      percentToDamage: 1
+      percentToSlowDown: 0
+    numberOfUses: 1
+  - name: Smoke
+    id: 2
+    localizationKey: skill_smoke
+    upgradeDescription: -----
+    type: 2
+    uiSpriteLink:
+      m_AssetGUID: 50d1a7282383d403383e5ef4d80d911a
+      m_SubObjectName: icon_skill_time1_stage5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    baseEffectValue: 1
+    perUpgradeEffectValue: 1
+    upgradeCost: 100
+    countOfUsagePerBattle: 1
+    openTimeLineId: 0
+    openStageId: 5
+    prefabLink:
+      m_AssetGUID: c434e2e21ddbe224ca35ccd44fc2c3a8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    timeAwait: 2
+    upgradeSkillValue:
+      timeStunn: 0
+      percentToDamage: 0
+      percentToSlowDown: 1
+    numberOfUses: 1
+  - name: Potion
+    id: 3
+    localizationKey: skill_potion
+    upgradeDescription: -----
+    type: 3
+    uiSpriteLink:
+      m_AssetGUID: 2b5c536e33da84691a83796cccc22b53
+      m_SubObjectName: icon_skill_time1_stage6
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    baseEffectValue: 50
+    perUpgradeEffectValue: 1
+    upgradeCost: 100
+    countOfUsagePerBattle: 1
+    openTimeLineId: 0
+    openStageId: 6
+    prefabLink:
+      m_AssetGUID: a24b43c387f5244409d5fdcdc855ce20
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    timeAwait: 2
+    upgradeSkillValue:
+      timeStunn: 0
+      percentToDamage: 1
+      percentToSlowDown: 0
+    numberOfUses: 1

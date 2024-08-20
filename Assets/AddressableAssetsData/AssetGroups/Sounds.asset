@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  m_GroupName: Sounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 49a5aa424124748ecb1f6d267b729d1f
+  m_SerializeEntries:
+  - m_GUID: 0b3e7ce2727290f4697a01c729a38849
+    m_Address: Assets/GAME/Sounds/environment/envi_level_bg_time1_stage1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 495cb5c5ddea35a40a0cf57dc0ee006e
+    m_Address: Assets/GAME/Sounds/environment/envi_level_bg_time1_stage2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 392d8eb892b431342a5c756abe445203
+    m_Address: Assets/GAME/Sounds/environment/envi_level_bg_time1_stage3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a5b79d966292024eadf7027d5c95464
+    m_Address: Assets/GAME/Sounds/environment/envi_level_bg_time1_stage4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 733f05d18ac249b4a8310688b4941b1a
+    m_Address: Assets/GAME/Sounds/environment/envi_level_bg_time1_stage5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 418e37a748611514189235b57a2869a8
+    m_Address: Assets/GAME/Sounds/environment/envi_level_bg_time1_stage6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e3fd55463e9daf4286e46e0f748405f
+    m_Address: Assets/GAME/Sounds/music/mus_level_bg_1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc8ad22c04c2f224e92a88795437eefa
+    m_Address: Assets/GAME/Sounds/music/mus_level_bg_2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8525ab22798cc2a42940524a54284709
+    m_Address: Assets/GAME/Sounds/music/mus_level_bg_3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f2b94da4d64fe844aa601727713b309
+    m_Address: Assets/GAME/Sounds/music/mus_level_bg_4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 509d40b1b2f0a114abf8c4c47b93a287
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_death_bird.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6dee9774ea94254c9e988428b758fe3
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_death_man_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3608d9006f48eaa4984d9ffe9b0eeb27
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_death_man_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9314a570af58bc46b987d2f62117180
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_death_meh_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adb82bba3c1dbbe4cb070d7d33b6319c
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_blaster.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8f95cd4137ba0144b406b3df8086c04
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_blaster_mini.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9264ab1d153d354ebae30a73e0d511f
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_bow.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3216874346dc63b4387f74969923581f
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_cannon_modern.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9612766a0f3f6ee4685aeb908556c4e1
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_club.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7df9ba5245dd2f4d8e514e747500e2c
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_crossbow.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a4de93c1a0748048bc4ddeccc9ef43f
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_eagle.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11ed9e12618c89543877a94d72a9d3ca
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_hand.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6b1bc28ecda4854b89bc061d67c0baa
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_hand_stone.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c0c377dc9198094f802495065f392b1
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_machinegun.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7346af019b484884e90c1aceb7bf237e
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_meh_hand.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3093c61e2a1e84841a4fc5c98681a936
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_pterodactyl.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afa02c3611f608b4e95d495e9a2be3e2
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_rifle.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 747750030e0f99848a3c75d8ebb13a4f
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_sling.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b93dfe48a233b424b891afe8548adcde
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_spear.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcee122d8611116478330fe86955bc64
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_sword.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1e434c1aa1afab4cb6e2bb917faa17b
+    m_Address: Assets/GAME/Sounds/sfx/sfx_battle/sfx_battle_hit_tank.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 446c4ddc92bc33c41aa4dacf257f652d
+    m_Address: Assets/GAME/Sounds/sfx/sfx_click.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9880aa85b3b4994b9f8a2e443a0fe5b
+    m_Address: Assets/GAME/Sounds/sfx/sfx_click_block.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac7f4d43b0d1bd74980213e5c370ed7d
+    m_Address: Assets/GAME/Sounds/sfx/sfx_click_buy.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48a91d66a7f721f4aa95ed53dcb6eea8
+    m_Address: Assets/GAME/Sounds/sfx/sfx_click_close.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7408e88c4040c244186c4e828eddfb8a
+    m_Address: Assets/GAME/Sounds/sfx/sfx_click_menu _bottom.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d3fb2d720c44cb499f243855f6e597d
+    m_Address: Assets/GAME/Sounds/sfx/sfx_defeat.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56fb80da293767647bd564fd2312fa1e
+    m_Address: Assets/GAME/Sounds/sfx/sfx_drop_coin.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0302efebc75f7b46b5c591a7c3e43a1
+    m_Address: Assets/GAME/Sounds/sfx/sfx_enemy.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d384617a84f8b764baa97e3eff579b74
+    m_Address: Assets/GAME/Sounds/sfx/sfx_set.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f98d1d5f2b8a35478bc5defa35b2010
+    m_Address: Assets/GAME/Sounds/sfx/sfx_start_war.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8df54c00d33d146458652f5d007899c4
+    m_Address: Assets/GAME/Sounds/sfx/sfx_victory.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1d0be3c8d379e4569b3817531018d669, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3f3813c6868f84555bb03dfd12bf5739, type: 2}
+    - {fileID: 11400000, guid: 7f728dffc911a43a8a20d499ca9e2dd6, type: 2}

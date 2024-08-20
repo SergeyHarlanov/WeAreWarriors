@@ -1,0 +1,1155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ee935405efed4b4dac94357e86dd5d8, type: 3}
+  m_Name: CharactersDataSO
+  m_EditorClassIdentifier: 
+  _charactersData:
+  - name: Enemy5780
+    keyNameLocalization: timeline1_stage1_mob1_name
+    id: 0
+    spawnCost: 3
+    unlockCost: 0
+    speed: 0.5
+    attack: 1
+    buildingAttack: 1
+    health: 3
+    drop: 12
+    dropHitBase: 2
+    attackRate: 0.8
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: c64b56373222c734db5a87131dfe7a99
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 6d693087f78ef492482379361b04233d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 1
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 7
+    enemyAttackAnimationId: 6
+    attackFrame: 5
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Ranged Warrior
+    keyNameLocalization: timeline1_stage1_mob2_name
+    id: 1
+    spawnCost: 5
+    unlockCost: 150
+    speed: 0.5
+    attack: 1.3
+    buildingAttack: 2
+    health: 1
+    drop: 16
+    dropHitBase: 2
+    attackRate: 0.8
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: 4a91e5f5f24bf064ca615ab15770ff95
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: fe1530a1b81e64a4599bcad916802b55
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 1
+    playerWalkAnimationId: 3
+    playerAttackAnimationId: 2
+    enemyWalkAnimationId: 9
+    enemyAttackAnimationId: 8
+    attackFrame: 9
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior3
+    keyNameLocalization: timeline1_stage1_mob3_name
+    id: 2
+    spawnCost: 7
+    unlockCost: 400
+    speed: 0.5
+    attack: 2.5
+    buildingAttack: 4
+    health: 15
+    drop: 20
+    dropHitBase: 4
+    attackRate: 0.8
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 226234a4104a6e4478eb96b7b95fae57
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: dbf8a988ad72f48e0b5c34d1d7e50983
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 5
+    playerAttackAnimationId: 4
+    enemyWalkAnimationId: 11
+    enemyAttackAnimationId: 10
+    attackFrame: 7
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior4
+    keyNameLocalization: timeline1_stage1_mob4_name
+    id: 3
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 1.5
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 8392386993cfb46119242f9b927c968b
+      m_SubObjectName: mob_time1_stage1_mob4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: 6230251a034d941099fec3d076b3d5cf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Pterodactel
+    keyNameLocalization: timeline1_stage1_mob5_name
+    id: 4
+    spawnCost: 7
+    unlockCost: 5000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 14b802ca7d2cf48e89b95aef3bd7f1ea
+      m_SubObjectName: mob_time1_stage1_mob5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: 77569066563854ceaaae63d218fe0ac4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior5Stage2
+    keyNameLocalization: timeline1_stage2_mob1_name
+    id: 5
+    spawnCost: 5
+    unlockCost: 0
+    speed: 0.5
+    attack: 3.5
+    buildingAttack: 6
+    health: 11
+    drop: 92
+    dropHitBase: 6
+    attackRate: 0.6
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 3e91a9a09cbd5c14782d742578a0f186
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 87259b07daac64f8c851710845c427f9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 1
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 7
+    enemyAttackAnimationId: 6
+    attackFrame: 8
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior6
+    keyNameLocalization: timeline1_stage2_mob2_name
+    id: 6
+    spawnCost: 8
+    unlockCost: 1200
+    speed: 0.5
+    attack: 5
+    buildingAttack: 8
+    health: 3.25
+    drop: 128
+    dropHitBase: 6
+    attackRate: 0.5
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: 395b1c757b129964b96fd11e033a8588
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: df838a02a04e24d6ebc21862e2e74e5e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0.5
+    playerWalkAnimationId: 3
+    playerAttackAnimationId: 2
+    enemyWalkAnimationId: 9
+    enemyAttackAnimationId: 8
+    attackFrame: 6
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior7
+    keyNameLocalization: timeline1_stage2_mob3_name
+    id: 7
+    spawnCost: 12
+    unlockCost: 3200
+    speed: 0.5
+    attack: 9.6
+    buildingAttack: 16
+    health: 48.75
+    drop: 160
+    dropHitBase: 12
+    attackRate: 0.6
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: d0a1f3fee5ae7ce429f5a6b8de752aae
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 754e66f81ed9247fb9594ac58590b169
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 5
+    playerAttackAnimationId: 4
+    enemyWalkAnimationId: 11
+    enemyAttackAnimationId: 10
+    attackFrame: 11
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior8
+    keyNameLocalization: timeline1_stage2_mob4_name
+    id: 8
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 45c71b45ca17247e5b0ca89616582ce7
+      m_SubObjectName: mob_time1_stage2_mob4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: 8f104fce7302f4801b08678af722e923
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior9
+    keyNameLocalization: timeline1_stage2_mob5_name
+    id: 9
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 5b743f312725847baa4481d6ddcc1efe
+      m_SubObjectName: mob_time1_stage2_mob5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: d804699a8c8d34e48a538883b1fd32b0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior10Stage3
+    keyNameLocalization: timeline1_stage3_mob1_name
+    id: 10
+    spawnCost: 7
+    unlockCost: 0
+    speed: 0.5
+    attack: 11.5
+    buildingAttack: 20
+    health: 33
+    drop: 768
+    dropHitBase: 77
+    attackRate: 0.6
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 3feec2a66723efe4184d5249ab5de2bf
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 8c4fce7539fb44a339831454eec042ea
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 1
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 7
+    enemyAttackAnimationId: 6
+    attackFrame: 9
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior11
+    keyNameLocalization: timeline1_stage3_mob2_name
+    id: 11
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 0.5
+    attack: 16.4
+    buildingAttack: 0
+    health: 9.75
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: 73daffe2ce9311a4fa7fedfe852ff47f
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: ab4b3b4ce7a2f405f9358b3a8678d9a6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 1
+    bulletJumpPower: 0
+    playerWalkAnimationId: 3
+    playerAttackAnimationId: 2
+    enemyWalkAnimationId: 9
+    enemyAttackAnimationId: 8
+    attackFrame: 7
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior12
+    keyNameLocalization: timeline1_stage3_mob3_name
+    id: 12
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 0.5
+    attack: 31.5
+    buildingAttack: 0
+    health: 146.25
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 8b148770b70a54f47bd29d1a3cec9950
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 5ed1485d024e649eca6e22c79b72e358
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 5
+    playerAttackAnimationId: 4
+    enemyWalkAnimationId: 11
+    enemyAttackAnimationId: 10
+    attackFrame: 14
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior13
+    keyNameLocalization: timeline1_stage3_mob4_name
+    id: 13
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 32fd7032c6c0e408cbb6b7212c746103
+      m_SubObjectName: mob_time1_stage3_mob4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: a64ac9a525adb4c9495d417ba07b08cd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior14
+    keyNameLocalization: timeline1_stage3_mob5_name
+    id: 14
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 12fd35a3c56454774bcf4a8054d42947
+      m_SubObjectName: mob_time1_stage3_mob5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: 080de3bc5ad95466fa15a08d504f7dd8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior15Stage4
+    keyNameLocalization: timeline1_stage4_mob1_name
+    id: 15
+    spawnCost: 9
+    unlockCost: 0
+    speed: 0.5
+    attack: 40
+    buildingAttack: 67
+    health: 121
+    drop: 6411
+    dropHitBase: 988
+    attackRate: 0.6
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 2948d670dfcdbc345a336f2065d16215
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: c715e58b4558d4457b2060f8f6072045
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 1
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 7
+    enemyAttackAnimationId: 6
+    attackFrame: 12
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior16
+    keyNameLocalization: timeline1_stage4_mob2_name
+    id: 16
+    spawnCost: 15
+    unlockCost: 76800
+    speed: 0.5
+    attack: 57
+    buildingAttack: 89
+    health: 36
+    drop: 8920
+    dropHitBase: 1181
+    attackRate: 0.5
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: 0049f3c99f83b3b4d9e97beed25ff606
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 99e0e7ea1dfa64a8c8f4b85b354bb113
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0.3
+    playerWalkAnimationId: 3
+    playerAttackAnimationId: 2
+    enemyWalkAnimationId: 9
+    enemyAttackAnimationId: 8
+    attackFrame: 13
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior17
+    keyNameLocalization: timeline1_stage4_mob3_name
+    id: 17
+    spawnCost: 21
+    unlockCost: 204000
+    speed: 0.5
+    attack: 110
+    buildingAttack: 178
+    health: 537
+    drop: 11150
+    dropHitBase: 2464
+    attackRate: 0.6
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: 31d4d0f730c952b41bcaee86620125a2
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 9b5036f2b8a5343a88348343ba69d5d3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 1
+    playerWalkAnimationId: 5
+    playerAttackAnimationId: 4
+    enemyWalkAnimationId: 11
+    enemyAttackAnimationId: 10
+    attackFrame: 17
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior18
+    keyNameLocalization: timeline1_stage4_mob4_name
+    id: 18
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: e6a1760d3e88b4c3da52e64b7f683536
+      m_SubObjectName: mob_time1_stage4_mob4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: b2147ea424cc94e829429d7e3c0655df
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior19
+    keyNameLocalization: timeline1_stage4_mob5_name
+    id: 19
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: b65afc80fb5bc4589a7a3bece5a598f3
+      m_SubObjectName: mob_time1_stage4_mob5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: 4845588b655d647048aca1f03530e019
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior20Stage5
+    keyNameLocalization: timeline1_stage5_mob1_name
+    id: 20
+    spawnCost: 11
+    unlockCost: 0
+    speed: 0.5
+    attack: 132
+    buildingAttack: 222
+    health: 363
+    drop: 53519
+    dropHitBase: 12681
+    attackRate: 0.8
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 215bf2f5316c84f4d848be40f98c1f92
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 9e6c5be68040342a28b173a663596ee4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 1
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 7
+    enemyAttackAnimationId: 6
+    attackFrame: 14
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior21
+    keyNameLocalization: timeline1_stage5_mob2_name
+    id: 21
+    spawnCost: 18
+    unlockCost: 614000
+    speed: 0.5
+    attack: 189
+    buildingAttack: 299
+    health: 107
+    drop: 71080
+    dropHitBase: 15152
+    attackRate: 0.5
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: c75338056f890764bbb63cdab0c0d9d3
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 490f42de4592449caa272345ef167b6d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 3
+    playerAttackAnimationId: 2
+    enemyWalkAnimationId: 9
+    enemyAttackAnimationId: 8
+    attackFrame: 18
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior22
+    keyNameLocalization: timeline1_stage5_mob3_name
+    id: 22
+    spawnCost: 26
+    unlockCost: 1630000
+    speed: 0.5
+    attack: 363
+    buildingAttack: 599
+    health: 1610
+    drop: 89198
+    dropHitBase: 31621
+    attackRate: 0.6
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: 25c7030c67991844bb9282dd4b7f1fc6
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 63c3fb20d921c436ca82a8a05e187b3d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 1
+    bulletJumpPower: 0
+    playerWalkAnimationId: 5
+    playerAttackAnimationId: 4
+    enemyWalkAnimationId: 11
+    enemyAttackAnimationId: 10
+    attackFrame: 14
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior23
+    keyNameLocalization: timeline1_stage5_mob4_name
+    id: 23
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 86f2bffe9aac046899c40364c5dc6995
+      m_SubObjectName: mob_time1_stage5_mob4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: 2d71d859f48d04eb8b0c3277a9687edf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior24
+    keyNameLocalization: timeline1_stage5_mob5_name
+    id: 24
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: fba6e987e2cbf48a1b3310bb4de16c4a
+      m_SubObjectName: mob_time1_stage5_mob5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: cc6575f2d1380461190ab2c0c3e718e9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior25Stage6
+    keyNameLocalization: timeline1_stage6_mob1_name
+    id: 25
+    spawnCost: 13
+    unlockCost: 0
+    speed: 0.5
+    attack: 463
+    buildingAttack: 739
+    health: 1333
+    drop: 446767
+    dropHitBase: 162746
+    attackRate: 0.6
+    attackDistance: 1
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: d08fbf3bb51b94546bd6f161155d3bee
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 767e0451e2da8417e890ae7265cafd44
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 1
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 7
+    enemyAttackAnimationId: 6
+    attackFrame: 12
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior26
+    keyNameLocalization: timeline1_stage6_mob2_name
+    id: 26
+    spawnCost: 22
+    unlockCost: 4910000
+    speed: 0.5
+    attack: 661
+    buildingAttack: 985
+    health: 394
+    drop: 621589
+    dropHitBase: 194449
+    attackRate: 0.5
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: ea15f0aa90e24e942a1f432e17e32e43
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: 04d905059356c4d38a8f79bf69c16249
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 3
+    playerAttackAnimationId: 2
+    enemyWalkAnimationId: 9
+    enemyAttackAnimationId: 8
+    attackFrame: 13
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior27
+    keyNameLocalization: timeline1_stage6_mob3_name
+    id: 27
+    spawnCost: 30
+    unlockCost: 13100000
+    speed: 0.5
+    attack: 1270
+    buildingAttack: 1969
+    health: 5909
+    drop: 776987
+    dropHitBase: 405807
+    attackRate: 0.6
+    attackDistance: 4
+    attackType: 2
+    uiSpriteReference:
+      m_AssetGUID: 5de7d8cb3461d794bb81802d788a7d90
+      m_SubObjectName: 
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 0
+    viewPrefabReference:
+      m_AssetGUID: f445829b2d5d948e18343ef2a1db40d0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 8651609cd9ac1499699f936bd00d9ab6
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 5
+    playerAttackAnimationId: 4
+    enemyWalkAnimationId: 11
+    enemyAttackAnimationId: 10
+    attackFrame: 10
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior28
+    keyNameLocalization: timeline1_stage6_mob4_name
+    id: 28
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: 573ac6be295d5435cbe52f410fa3307f
+      m_SubObjectName: mob_time1_stage6_mob4
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: b2ae617b9ee3248d29eeaa8ec72a2fdc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12
+  - name: Warrior29
+    keyNameLocalization: timeline1_stage6_mob5_name
+    id: 29
+    spawnCost: 7
+    unlockCost: 2000
+    speed: 1
+    attack: 1
+    buildingAttack: 0
+    health: 3
+    drop: 12
+    dropHitBase: 0
+    attackRate: 0.8
+    attackDistance: 0
+    attackType: 1
+    uiSpriteReference:
+      m_AssetGUID: b1ec1f16bc84346d7aec8084e859b327
+      m_SubObjectName: mob_time1_stage6_mob5
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_EditorAssetChanged: 1
+    viewPrefabReference:
+      m_AssetGUID: f88f7eaaea4e64d088eefae7fce13188
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletPrefabReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    bulletJumpPower: 0
+    playerWalkAnimationId: 0
+    playerAttackAnimationId: 0
+    enemyWalkAnimationId: 0
+    enemyAttackAnimationId: 0
+    attackFrame: 0
+    hitSoundTypePlayer: 18
+    deathSoundTypePlayer: 12

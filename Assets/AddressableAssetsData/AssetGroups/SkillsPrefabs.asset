@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkillsPrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: SkillsPrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2784e7a135f8beb48a2f879c273f6981
+  m_SerializeEntries:
+  - m_GUID: dbd95705627bb6b47b2c61dc415655cb
+    m_Address: Arrow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87c94c3a812549f419c6c664aa6a6b4e
+    m_Address: Fab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a24b43c387f5244409d5fdcdc855ce20
+    m_Address: Potion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c434e2e21ddbe224ca35ccd44fc2c3a8
+    m_Address: Smoke
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1d0be3c8d379e4569b3817531018d669, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d7c0cc9862cccbc4fbce2f7dced85e48, type: 2}
+    - {fileID: 11400000, guid: 0e93e2bb8e8d6c641b181712c44a844f, type: 2}

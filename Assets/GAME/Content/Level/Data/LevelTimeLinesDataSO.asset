@@ -1,0 +1,427 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 211196059e2bd49ff999ce7d94e9656a, type: 3}
+  m_Name: LevelTimeLinesDataSO
+  m_EditorClassIdentifier: 
+  timeLines:
+  - name: Humans
+    localizationKey: Humans
+    cost: 0
+    stages:
+    - name: Stage1
+      localizationKey: stage1_name
+      cost: 0
+      stageBase:
+        basePlayerHealth: 2
+        baseEnemyHealth: 500
+        playerHealthPerLevel: 1
+        baseUpgradeCost: 30
+      gainResourcesData:
+        gainResourceBaseSpeed: 0.16
+        gainResourcePerUpgradeIncrease: 0.02
+        gainResourceBaseUpgradeCost: 8
+        gainResourceBaseTime: 5.5
+        gainResourceBaseTimePerLevel: 0.2
+        minGainResourceTime: 0.2
+        gainStartResources: 0
+        cheatGainResourceTime: 0.2
+      levelBackgroundPrefabLink:
+        m_AssetGUID: da73be5f8c8da4586846eefdab4f3e11
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      levelBaseBuildingPrefabLink:
+        m_AssetGUID: 9d7535b11edf34b3c8b8fe5c41847cac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      stageUiSpriteLink:
+        m_AssetGUID: 58e949914f78b441d8e830c80da8b222
+        m_SubObjectName: icon_time1_stage1
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      difficultyIncrease: 1
+      characters: 000000000100000002000000
+      spawnData:
+        spawnWaves:
+        - count: 1
+          id: 0
+          time: 8
+        - count: 1
+          id: 0
+          time: 15
+        - count: 2
+          id: 1
+          time: 25
+        - count: 3
+          id: 0
+          time: 35
+        - count: 2
+          id: 1
+          time: 45
+        - count: 1
+          id: 2
+          time: 55
+        - count: 5
+          id: 0
+          time: 65
+        - count: 2
+          id: 1
+          time: 70
+        - count: 2
+          id: 2
+          time: 84
+        - count: 10
+          id: 0
+          time: 100
+        - count: 6
+          id: 2
+          time: 110
+      soundType: 33
+    - name: Stage2
+      localizationKey: stage2_name
+      cost: 2000
+      stageBase:
+        basePlayerHealth: 6
+        baseEnemyHealth: 1500
+        playerHealthPerLevel: 1
+        baseUpgradeCost: 240
+      gainResourcesData:
+        gainResourceBaseSpeed: 0.18
+        gainResourcePerUpgradeIncrease: 0.02
+        gainResourceBaseUpgradeCost: 8
+        gainResourceBaseTime: 5.3
+        gainResourceBaseTimePerLevel: 0.2
+        minGainResourceTime: 0.2
+        gainStartResources: 2
+        cheatGainResourceTime: 0.2
+      levelBackgroundPrefabLink:
+        m_AssetGUID: 39c36b3e57fa143a2a40471adfd10ff5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      levelBaseBuildingPrefabLink:
+        m_AssetGUID: 1122029c359b94ea8a2905bdef92f2de
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      stageUiSpriteLink:
+        m_AssetGUID: d7357b9e32a624e429da181c69270b98
+        m_SubObjectName: icon_time1_stage2
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      difficultyIncrease: 1.73
+      characters: 050000000600000007000000
+      spawnData:
+        spawnWaves:
+        - count: 1
+          id: 5
+          time: 6
+        - count: 2
+          id: 5
+          time: 16
+        - count: 2
+          id: 5
+          time: 26
+        - count: 2
+          id: 5
+          time: 29
+        - count: 2
+          id: 6
+          time: 41
+        - count: 3
+          id: 5
+          time: 51
+        - count: 2
+          id: 7
+          time: 61
+        - count: 6
+          id: 5
+          time: 71
+        - count: 1
+          id: 7
+          time: 81
+        - count: 12
+          id: 7
+          time: 91
+      soundType: 34
+    - name: Stage3
+      localizationKey: stage3_name
+      cost: 16000
+      stageBase:
+        basePlayerHealth: 6
+        baseEnemyHealth: 1500
+        playerHealthPerLevel: 1
+        baseUpgradeCost: 240
+      gainResourcesData:
+        gainResourceBaseSpeed: 0.18
+        gainResourcePerUpgradeIncrease: 0.02
+        gainResourceBaseUpgradeCost: 8
+        gainResourceBaseTime: 5.3
+        gainResourceBaseTimePerLevel: 0.2
+        minGainResourceTime: 0.2
+        gainStartResources: 4
+        cheatGainResourceTime: 0.2
+      levelBackgroundPrefabLink:
+        m_AssetGUID: 6d0d0aa561d7846348686e66ae9eac57
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      levelBaseBuildingPrefabLink:
+        m_AssetGUID: 1d2d85d9c515542c7b6df5a7faeabb5c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      stageUiSpriteLink:
+        m_AssetGUID: 9071a5aaa0b3f409fb3b6d6b1d61c99b
+        m_SubObjectName: icon_time1_stage3
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      difficultyIncrease: 1.9
+      characters: 0a0000000b0000000c000000
+      spawnData:
+        spawnWaves:
+        - count: 2
+          id: 10
+          time: 5
+        - count: 2
+          id: 10
+          time: 10
+        - count: 1
+          id: 10
+          time: 20
+        - count: 1
+          id: 11
+          time: 23
+        - count: 5
+          id: 10
+          time: 35
+        - count: 1
+          id: 12
+          time: 45
+        - count: 2
+          id: 15
+          time: 55
+        - count: 2
+          id: 16
+          time: 58
+        - count: 2
+          id: 17
+          time: 70
+        - count: 15
+          id: 15
+          time: 80
+        - count: 5
+          id: 17
+          time: 90
+      soundType: 35
+    - name: Stage4
+      localizationKey: stage4_name
+      cost: 130000
+      stageBase:
+        basePlayerHealth: 6
+        baseEnemyHealth: 1500
+        playerHealthPerLevel: 1
+        baseUpgradeCost: 240
+      gainResourcesData:
+        gainResourceBaseSpeed: 0.18
+        gainResourcePerUpgradeIncrease: 0.02
+        gainResourceBaseUpgradeCost: 8
+        gainResourceBaseTime: 5.3
+        gainResourceBaseTimePerLevel: 0.2
+        minGainResourceTime: 0.2
+        gainStartResources: 6
+        cheatGainResourceTime: 0.2
+      levelBackgroundPrefabLink:
+        m_AssetGUID: c8daee725832640be8a6e1bfcca787cf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      levelBaseBuildingPrefabLink:
+        m_AssetGUID: 716ebebc978fb4353b5eaa090f1d5e00
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      stageUiSpriteLink:
+        m_AssetGUID: 15df547ee8a8e471ba9775062cbab125
+        m_SubObjectName: icon_time1_stage4
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      difficultyIncrease: 2
+      characters: 0f0000001000000011000000
+      spawnData:
+        spawnWaves:
+        - count: 1
+          id: 15
+          time: 7
+        - count: 1
+          id: 15
+          time: 15
+        - count: 2
+          id: 15
+          time: 25
+        - count: 3
+          id: 15
+          time: 35
+        - count: 2
+          id: 16
+          time: 45
+        - count: 1
+          id: 17
+          time: 55
+        - count: 5
+          id: 15
+          time: 65
+        - count: 2
+          id: 16
+          time: 71
+      soundType: 36
+    - name: Stage5
+      localizationKey: stage5_name
+      cost: 1000000
+      stageBase:
+        basePlayerHealth: 6
+        baseEnemyHealth: 1500
+        playerHealthPerLevel: 1
+        baseUpgradeCost: 240
+      gainResourcesData:
+        gainResourceBaseSpeed: 0.18
+        gainResourcePerUpgradeIncrease: 0.02
+        gainResourceBaseUpgradeCost: 8
+        gainResourceBaseTime: 5.3
+        gainResourceBaseTimePerLevel: 0.2
+        minGainResourceTime: 0.2
+        gainStartResources: 8
+        cheatGainResourceTime: 0.2
+      levelBackgroundPrefabLink:
+        m_AssetGUID: 3f908ac82adab4d399d5515da3ec9b52
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      levelBaseBuildingPrefabLink:
+        m_AssetGUID: 4b60a3e9d5837479f8fbe6236f92286a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      stageUiSpriteLink:
+        m_AssetGUID: 492a4199829b747189e372c4b6b6c7a9
+        m_SubObjectName: icon_time1_stage5
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      difficultyIncrease: 2.3
+      characters: 140000001500000016000000
+      spawnData:
+        spawnWaves:
+        - count: 1
+          id: 20
+          time: 5
+        - count: 2
+          id: 20
+          time: 15
+        - count: 2
+          id: 20
+          time: 25
+        - count: 2
+          id: 20
+          time: 28
+        - count: 2
+          id: 21
+          time: 39
+        - count: 3
+          id: 20
+          time: 50
+        - count: 2
+          id: 22
+          time: 60
+        - count: 6
+          id: 21
+          time: 70
+        - count: 1
+          id: 23
+          time: 80
+      soundType: 37
+    - name: Stage6
+      localizationKey: stage6_name
+      cost: 10000000
+      stageBase:
+        basePlayerHealth: 6
+        baseEnemyHealth: 1500
+        playerHealthPerLevel: 1
+        baseUpgradeCost: 240
+      gainResourcesData:
+        gainResourceBaseSpeed: 0.18
+        gainResourcePerUpgradeIncrease: 0.02
+        gainResourceBaseUpgradeCost: 8
+        gainResourceBaseTime: 5.3
+        gainResourceBaseTimePerLevel: 0.2
+        minGainResourceTime: 0.2
+        gainStartResources: 10
+        cheatGainResourceTime: 0.2
+      levelBackgroundPrefabLink:
+        m_AssetGUID: 2874e51b715e747c9b13004cf2380b8f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      levelBaseBuildingPrefabLink:
+        m_AssetGUID: feb2498b9655b4413b20d9a8b9425d34
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      stageUiSpriteLink:
+        m_AssetGUID: 97976b2775c9d4566a92de858aa599eb
+        m_SubObjectName: icon_time1_stage6
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      difficultyIncrease: 3.5
+      characters: 190000001a0000001b000000
+      spawnData:
+        spawnWaves:
+        - count: 2
+          id: 25
+          time: 5
+        - count: 2
+          id: 25
+          time: 10
+        - count: 1
+          id: 25
+          time: 20
+        - count: 1
+          id: 26
+          time: 23
+        - count: 5
+          id: 25
+          time: 44
+        - count: 1
+          id: 27
+          time: 55
+        - count: 2
+          id: 25
+          time: 64
+        - count: 2
+          id: 26
+          time: 67
+        - count: 2
+          id: 27
+          time: 74
+        - count: 14
+          id: 25
+          time: 83
+        - count: 5
+          id: 27
+          time: 93
+      soundType: 38

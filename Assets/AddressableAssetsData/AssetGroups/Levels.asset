@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  m_GroupName: Levels
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 28948efb7721c4d22b29b29ff2ff6940
+  m_SerializeEntries:
+  - m_GUID: 003a68abc95d9446aa3695e10ce025d3
+    m_Address: LevelView
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da73be5f8c8da4586846eefdab4f3e11
+    m_Address: BackgroundStage1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d7535b11edf34b3c8b8fe5c41847cac
+    m_Address: BaseStage1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39c36b3e57fa143a2a40471adfd10ff5
+    m_Address: BackgroundStage2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1122029c359b94ea8a2905bdef92f2de
+    m_Address: BaseStage2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2874e51b715e747c9b13004cf2380b8f
+    m_Address: BackgroundStage6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f908ac82adab4d399d5515da3ec9b52
+    m_Address: BackgroundStage5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8daee725832640be8a6e1bfcca787cf
+    m_Address: BackgroundStage4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d0d0aa561d7846348686e66ae9eac57
+    m_Address: BackgroundStage3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d2d85d9c515542c7b6df5a7faeabb5c
+    m_Address: BaseStage3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 716ebebc978fb4353b5eaa090f1d5e00
+    m_Address: BaseStage4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b60a3e9d5837479f8fbe6236f92286a
+    m_Address: BaseStage5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feb2498b9655b4413b20d9a8b9425d34
+    m_Address: BaseStage6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c64b56373222c734db5a87131dfe7a99
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage1_mob1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a91e5f5f24bf064ca615ab15770ff95
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage1_mob2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 226234a4104a6e4478eb96b7b95fae57
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage1_mob3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e91a9a09cbd5c14782d742578a0f186
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage2_mob1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 395b1c757b129964b96fd11e033a8588
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage2_mob2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0a1f3fee5ae7ce429f5a6b8de752aae
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage2_mob3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3feec2a66723efe4184d5249ab5de2bf
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage3_mob1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73daffe2ce9311a4fa7fedfe852ff47f
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage3_mob2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b148770b70a54f47bd29d1a3cec9950
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage3_mob3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2948d670dfcdbc345a336f2065d16215
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage4_mob1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0049f3c99f83b3b4d9e97beed25ff606
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage4_mob2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31d4d0f730c952b41bcaee86620125a2
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage4_mob3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c75338056f890764bbb63cdab0c0d9d3
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage5_mob2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 215bf2f5316c84f4d848be40f98c1f92
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage5_mob1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25c7030c67991844bb9282dd4b7f1fc6
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage5_mob3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d08fbf3bb51b94546bd6f161155d3bee
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage6_mob1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea15f0aa90e24e942a1f432e17e32e43
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage6_mob2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5de7d8cb3461d794bb81802d788a7d90
+    m_Address: Assets/GAME/Content/UI/GameScreen/CharactersUiSprites/icon_time1_stage6_mob3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1d0be3c8d379e4569b3817531018d669, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ede9d891083a84f88b70ef72d6c8a4e0, type: 2}
+    - {fileID: 11400000, guid: aff77b6581c4840dca0afaeca5597eba, type: 2}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3283d2921d4ac47128eb7eb97c6117ed, type: 3}
+  m_Name: InitialDataSO
+  m_EditorClassIdentifier: 
+  initData:
+    music: 1
+    sounds: 1
+    coins: 0
+    crystals: 0
+    currentTimeLine:
+      timeLineId: 0
+      playerStageId: 0
+      enemyStageId: 0
+      openedCharacters: 00000000
+      stageBaseLevel: 0
+      gainResourceUpgradeLevel: 0
+    openedTimeLines:
+    - timeLineId: 0
+      playerStageId: 0
+      enemyStageId: 0
+      openedCharacters: 00000000
+      stageBaseLevel: 0
+      gainResourceUpgradeLevel: 0
+    characterUpgradesData:
+    - id: 0
+      level: 0
+    - id: 1
+      level: 0
+    - id: 2
+      level: 0
+    skillsUpgradesData: []
+    equippedSkillId: -1

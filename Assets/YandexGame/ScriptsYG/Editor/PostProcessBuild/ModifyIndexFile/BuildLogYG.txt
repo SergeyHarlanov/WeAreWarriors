@@ -1,0 +1,2 @@
+Build path: D:/Git/Buildings/WeAreWarriors
+Build number: 53

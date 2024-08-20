@@ -1,0 +1,267 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a5b8563bdf9647e082c054938cb3969, type: 3}
+  m_Name: SoundsDataSO
+  m_EditorClassIdentifier: 
+  soundsData:
+  - type: 1
+    soundLink:
+      m_AssetGUID: 446c4ddc92bc33c41aa4dacf257f652d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 2
+    soundLink:
+      m_AssetGUID: 48a91d66a7f721f4aa95ed53dcb6eea8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 3
+    soundLink:
+      m_AssetGUID: 7408e88c4040c244186c4e828eddfb8a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 4
+    soundLink:
+      m_AssetGUID: d384617a84f8b764baa97e3eff579b74
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 5
+    soundLink:
+      m_AssetGUID: ac7f4d43b0d1bd74980213e5c370ed7d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 6
+    soundLink:
+      m_AssetGUID: f9880aa85b3b4994b9f8a2e443a0fe5b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 7
+    soundLink:
+      m_AssetGUID: 56fb80da293767647bd564fd2312fa1e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 8
+    soundLink:
+      m_AssetGUID: 8df54c00d33d146458652f5d007899c4
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 9
+    soundLink:
+      m_AssetGUID: 6d3fb2d720c44cb499f243855f6e597d
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 10
+    soundLink:
+      m_AssetGUID: 9f98d1d5f2b8a35478bc5defa35b2010
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 11
+    soundLink:
+      m_AssetGUID: b0302efebc75f7b46b5c591a7c3e43a1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 12
+    soundLink:
+      m_AssetGUID: 509d40b1b2f0a114abf8c4c47b93a287
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 13
+    soundLink:
+      m_AssetGUID: e6dee9774ea94254c9e988428b758fe3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 14
+    soundLink:
+      m_AssetGUID: 3608d9006f48eaa4984d9ffe9b0eeb27
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 15
+    soundLink:
+      m_AssetGUID: f9314a570af58bc46b987d2f62117180
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 16
+    soundLink:
+      m_AssetGUID: a8f95cd4137ba0144b406b3df8086c04
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 17
+    soundLink:
+      m_AssetGUID: adb82bba3c1dbbe4cb070d7d33b6319c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 18
+    soundLink:
+      m_AssetGUID: a9264ab1d153d354ebae30a73e0d511f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 19
+    soundLink:
+      m_AssetGUID: 3216874346dc63b4387f74969923581f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 20
+    soundLink:
+      m_AssetGUID: 9612766a0f3f6ee4685aeb908556c4e1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 21
+    soundLink:
+      m_AssetGUID: d7df9ba5245dd2f4d8e514e747500e2c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 22
+    soundLink:
+      m_AssetGUID: 6a4de93c1a0748048bc4ddeccc9ef43f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 23
+    soundLink:
+      m_AssetGUID: e6b1bc28ecda4854b89bc061d67c0baa
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 24
+    soundLink:
+      m_AssetGUID: 11ed9e12618c89543877a94d72a9d3ca
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 25
+    soundLink:
+      m_AssetGUID: 1c0c377dc9198094f802495065f392b1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 26
+    soundLink:
+      m_AssetGUID: 7346af019b484884e90c1aceb7bf237e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 27
+    soundLink:
+      m_AssetGUID: 3093c61e2a1e84841a4fc5c98681a936
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 28
+    soundLink:
+      m_AssetGUID: afa02c3611f608b4e95d495e9a2be3e2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 29
+    soundLink:
+      m_AssetGUID: 747750030e0f99848a3c75d8ebb13a4f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 30
+    soundLink:
+      m_AssetGUID: b93dfe48a233b424b891afe8548adcde
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 31
+    soundLink:
+      m_AssetGUID: fcee122d8611116478330fe86955bc64
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 32
+    soundLink:
+      m_AssetGUID: a1e434c1aa1afab4cb6e2bb917faa17b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 33
+    soundLink:
+      m_AssetGUID: 0b3e7ce2727290f4697a01c729a38849
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 34
+    soundLink:
+      m_AssetGUID: 495cb5c5ddea35a40a0cf57dc0ee006e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 35
+    soundLink:
+      m_AssetGUID: 392d8eb892b431342a5c756abe445203
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 36
+    soundLink:
+      m_AssetGUID: 3a5b79d966292024eadf7027d5c95464
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 37
+    soundLink:
+      m_AssetGUID: 733f05d18ac249b4a8310688b4941b1a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 38
+    soundLink:
+      m_AssetGUID: 418e37a748611514189235b57a2869a8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 39
+    soundLink:
+      m_AssetGUID: 3e3fd55463e9daf4286e46e0f748405f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 40
+    soundLink:
+      m_AssetGUID: fc8ad22c04c2f224e92a88795437eefa
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 41
+    soundLink:
+      m_AssetGUID: 8525ab22798cc2a42940524a54284709
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - type: 42
+    soundLink:
+      m_AssetGUID: 3f2b94da4d64fe844aa601727713b309
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 1
